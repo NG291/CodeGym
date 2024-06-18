@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/Operator-Expression/Operator-Expression.iml" filepath="$PROJECT_DIR$/module2/introduction/Operator-Expression/Operator-Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/System-time/System-time.iml" filepath="$PROJECT_DIR$/module2/introduction/System-time/System-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/module2/introduction/Variable-DataType/Variable-DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/applicationToReadNumbersIntoWords/applicationToReadNumbersIntoWords.iml" filepath="$PROJECT_DIR$/module2/introduction/applicationToReadNumbersIntoWords/applicationToReadNumbersIntoWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/module2/introduction/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codegymc04.iml" filepath="$PROJECT_DIR$/.idea/codegymc04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/currencyConversionApplication/currencyConversionApplication.iml" filepath="$PROJECT_DIR$/module2/introduction/currencyConversionApplication/currencyConversionApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/day-of-month/day-of-month.iml" filepath="$PROJECT_DIR$/module2/introduction/day-of-month/day-of-month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/displaygreeting/displaygreeting.iml" filepath="$PROJECT_DIR$/module2/introduction/displaygreeting/displaygreeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/leap-year-calculator/leap-year-calculator.iml" filepath="$PROJECT_DIR$/module2/introduction/leap-year-calculator/leap-year-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/introduction/linear-equation-resolver/linear-equation-resolver.iml" filepath="$PROJECT_DIR$/module2/introduction/linear-equation-resolver/linear-equation-resolver.iml" />
+    </modules>
+  </component>
+</project>
