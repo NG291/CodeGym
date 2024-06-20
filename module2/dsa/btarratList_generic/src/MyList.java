@@ -43,6 +43,8 @@ public class MyList<E> implements Interface<E> {
             if (i == index) {
                 j--;
                 continue;
+                //for (i=0;i<size-1;i++){
+//                elements[i]=ele[i+1]
             }
             newElement[j] = (E) elements[i];
         }
