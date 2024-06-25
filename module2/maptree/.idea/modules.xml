@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comparatorcomparable/comparatorcomparable.iml" filepath="$PROJECT_DIR$/comparatorcomparable/comparatorcomparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmapandhashset/hashmapandhashset.iml" filepath="$PROJECT_DIR$/hashmapandhashset/hashmapandhashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/maptree.iml" filepath="$PROJECT_DIR$/.idea/maptree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacitcemap/pacitcemap.iml" filepath="$PROJECT_DIR$/pacitcemap/pacitcemap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiceProduce/practiceProduceArrayList.iml" filepath="$PROJECT_DIR$/practiceProduce/practiceProduceArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiceProducelinkedlist/practiceProducelinkedlist.iml" filepath="$PROJECT_DIR$/practiceProducelinkedlist/practiceProducelinkedlist.iml" />
+    </modules>
+  </component>
+</project>

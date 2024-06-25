@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/btDecimalToBinary/btDecimalToBinary.iml" filepath="$PROJECT_DIR$/btDecimalToBinary/btDecimalToBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiceQueue/practiceQueue.iml" filepath="$PROJECT_DIR$/practiceQueue/practiceQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicestack/practicestack.iml" filepath="$PROJECT_DIR$/practicestack/practicestack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reversearraystack/reversearraystack.iml" filepath="$PROJECT_DIR$/reversearraystack/reversearraystack.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/stackqueue.iml" filepath="$PROJECT_DIR$/.idea/stackqueue.iml" />
     </modules>
   </component>

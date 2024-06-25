@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/insertsort/insertsort.iml" filepath="$PROJECT_DIR$/insertsort/insertsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertsort2/insertsort2.iml" filepath="$PROJECT_DIR$/insertsort2/insertsort2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacticepast1bubblesort/pacticepast1bubblesort.iml" filepath="$PROJECT_DIR$/pacticepast1bubblesort/pacticepast1bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacticepast2bubblesort/pacticepast2bubblesort.iml" filepath="$PROJECT_DIR$/pacticepast2bubblesort/pacticepast2bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacticepast3selectsort/pacticepast3selectsort.iml" filepath="$PROJECT_DIR$/pacticepast3selectsort/pacticepast3selectsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ss14sortarray.iml" filepath="$PROJECT_DIR$/.idea/ss14sortarray.iml" />
+    </modules>
+  </component>
+</project>
