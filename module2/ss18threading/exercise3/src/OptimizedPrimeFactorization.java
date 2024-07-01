@@ -18,14 +18,11 @@ public class OptimizedPrimeFactorization implements Runnable {
 
     }
 
-    private Boolean isPrime(long number) {
+    private boolean isPrime(long number) {
         if (number < 2) {
             return false;
         }
-        if (number == 2) {
-            return true;
-        }
-        for (int i = 3; i < Math.sqrt(number); i++) {
+        for (long i = 2; i <= Math.sqrt(number); i++) {
             if (number % i == 0) {
                 return false;
             }
