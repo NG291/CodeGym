@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class IllegalTriangleException {
+public class IllegalTriangleException extends Exception {
+   public IllegalTriangleException(String msg){
+        super(msg);
+    }
 }
