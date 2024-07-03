@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/automatedtestingjunit/apj-2023-junit-calculator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/introduction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss19string" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/stackqueue/btDecimalToBinary" vcs="Git" />
   </component>
 </project>
